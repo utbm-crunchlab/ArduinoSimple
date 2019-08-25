@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/olamotte/.platformio/penv/bin:/Users/olamotte/.platformio/penv:/usr/local/opt/python/libexec/bin:/usr/local/cellar/maven/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/Ghostscript/bin:/opt/X11/bin:/opt/ImageMagick/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
